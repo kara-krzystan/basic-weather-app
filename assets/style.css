@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: #293251;
+    background-color: #4d5a8a;
 }
 
 .container {
@@ -14,7 +14,7 @@ body {
     margin: 0 auto;
     
     border-radius: 10px;
-    padding-bottom : 50px;
+    padding-bottom : 10px;
 }
 
 .app-title {
@@ -47,7 +47,7 @@ body {
 .weather-container {
     width: 300px;
     height: 260px;
-    background-color: #F4F9FF;
+    background-color: #ebf3fc;
 }
 
 .weather-icon {
@@ -74,17 +74,13 @@ body {
     cursor: pointer;
 }
 
-.temperature-value p:hover {
-    
-}
-
 .temperature-value span {
     color: #293251;
     font-size: 0.5em;
 }
 
 .temperature-description {
-    
+    padding-top: 10px;
 }
 
 .temperature-description p {
@@ -96,10 +92,6 @@ body {
 }
 
 .location {
-    
-}
-
-.location p {
     margin: 0;
     padding: 0;
     color: #293251;
