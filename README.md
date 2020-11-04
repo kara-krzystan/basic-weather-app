@@ -1,4 +1,4 @@
-# Basic Weather App
+# Weather App: Basic
 
 ## Description
 
@@ -6,7 +6,7 @@ A very very basic weather app that provides a real-time weather report based on 
 
 ### Website Link
 
-https://kara-krzystan.github.io/basic-weather-app/
+https://kara-krzystan.github.io/weather-app-basic/
 
 ### Screenshot
 
