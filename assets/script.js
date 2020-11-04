@@ -41,7 +41,7 @@ function showError(error){
 
 // Get weather from API
 function getWeather(latitude, longitude){
-    var api = `http://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&units=imperial&appid=${key}`;
+    var api = `https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&units=imperial&appid=${key}`;
 console.log(api);
     fetch(api)
         .then(function(response){
