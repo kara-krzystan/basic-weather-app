@@ -4,15 +4,15 @@
 
 A very very basic weather app that provides a real-time weather report based on user's location.
 
-### Website Link
+## Website Link
 
 https://kara-krzystan.github.io/weather-app-basic/
 
-### Screenshot
+## Screenshot
 
 ![screenshot](https://github.com/kara-krzystan/basic-weather-app/blob/master/assets/images/basic-weather-app-screenshot.png)
 
-### Built With
+## Built With
 
 * HTML
 * CSS
@@ -20,4 +20,7 @@ https://kara-krzystan.github.io/weather-app-basic/
 * OpenWeatherMap
 * Google Fonts  
 
-#### Project based on CodeExplained tutorial 💻
+### Project based on CodeExplained tutorial 💻
+
+## Contact
+[Kara Krzystan on GitHub](http://github.com/kara-krzystan)
