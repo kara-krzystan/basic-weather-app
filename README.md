@@ -19,8 +19,7 @@ https://kara-krzystan.github.io/weather-app-basic/
 * JavaScript
 * OpenWeatherMap
 * Google Fonts  
-
-### Project based on CodeExplained tutorial 💻
+* CodeExplained tutorials
 
 ## Contact
 [Kara Krzystan on GitHub](http://github.com/kara-krzystan)
